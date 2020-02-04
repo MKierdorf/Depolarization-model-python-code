@@ -38,3 +38,4 @@ ne_d - thermal electron density in the disk in cm^-3
 
 ne_h - thermal electron density in the halo in cm^-3
 
+The 'ShneiderModel_M51_TwoLayerOnly_all.pdf' file shows an example with datapoints showing the observed degree of polarization between ~ 3 and 27 cm (Kierdorf et al., in prep.).
