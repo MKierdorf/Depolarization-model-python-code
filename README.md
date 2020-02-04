@@ -40,14 +40,11 @@ ne_h - thermal electron density in the halo in cm^-3
 
 MODELS 
 
-D : Disk regular
+D : Disk regular field
 
-H : Halo regular
+H : Halo regular field
 
-Example: DAHI means regular fields in Disk and Halo (DH), Anisotropic random field in Disk (A), and Isotropic random field in Halo (I)
-
-
-
+Example: DAHI means regular fields in Disk and Halo (DH), Anisotropic turbulent field in Disk (A), and Isotropic turbulent field in Halo (I)
 
 
 The 'ShneiderModel_M51_TwoLayerOnly_all.pdf' file shows an example with datapoints showing the observed degree of polarization between ~ 3 and 27 cm (Kierdorf et al., in prep.).
