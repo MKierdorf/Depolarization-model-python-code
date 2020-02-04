@@ -1,4 +1,5 @@
-# Depolarization
+# Depolarization 
+A python 2.7 code to visualize the depolarization model by Carl Shneider (Shneider et al. 2014)
 ###########################################################################
 # Maja Kierdorf, Feb. 2020
 #
