@@ -21,12 +21,20 @@ The model is based on Shneider et al. 2014: https://ui.adsabs.harvard.edu/abs/20
 ##################################################################################################
 
 x-axis: Wavelength
+
 y-axis: Normalized degree of polarization (p/p_0) with p_0=0.7
 
 Free parameters:
+
 B_d - regular magnetic field in the disk in microGauss
+
 B_h - regular magnetic field in the halo in microGauss
+
 b_d - turbulent magnetic field in the disk in microGauss
+
 b_h - turbulent magnetic field in the halo in microGauss
+
 ne_d - thermal electron density in the disk in cm^-3
+
 ne_h - thermal electron density in the halo in cm^-3
+
