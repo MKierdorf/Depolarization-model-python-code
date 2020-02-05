@@ -4,8 +4,7 @@ A python 2.7 code to visualize the depolarization model by Carl Shneider (Shneid
 
 ##################################################################################################
 
-This script uses Python Version 2.7
-This script uses Matplotlib version 1.3.1
+This script uses Python version 2.7 and Matplotlib version 1.3.1
 
 If you want to use a higher version of matplotlib, replace the keyword 'axisbg' with 'facecolor'.
 
