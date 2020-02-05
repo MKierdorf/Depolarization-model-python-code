@@ -19,23 +19,36 @@ The model is based on the work of Shneider et al. 2014: https://ui.adsabs.harvar
 
 #################################################################################
 
-x-axis: Wavelength\n
-y-axis: Normalized degree of polarization (p/p_0) with p_0=0.7\n
-\n
-Changeable parameters:\n
-B_d - regular magnetic field in the disk in microGauss\n
-B_h - regular magnetic field in the halo in microGauss\n
-b_d - turbulent magnetic field in the disk in microGauss\n
-b_h - turbulent magnetic field in the halo in microGauss\n
-ne_d - thermal electron density in the disk in cm^-3\n
-ne_h - thermal electron density in the halo in cm^-3\n
+x-axis: Wavelength
+
+y-axis: Normalized degree of polarization (p/p_0) with p_0=0.7
+
+Changeable parameters:
+
+B_d - regular magnetic field in the disk in microGauss
+
+B_h - regular magnetic field in the halo in microGauss
+
+b_d - turbulent magnetic field in the disk in microGauss
+
+b_h - turbulent magnetic field in the halo in microGauss
+
+ne_d - thermal electron density in the disk in cm^-3
+
+ne_h - thermal electron density in the halo in cm^-3
 
 MODELS 
 
-D : Disk regular field\n
-H : Halo regular field\n
-A: Anisotropic turbulent fields\n
-I: Isotropic turbulent fields\n
+D : Disk regular field
+
+H : Halo regular field
+
+A: Anisotropic turbulent fields
+
+I: Isotropic turbulent fields
+
 Example: DAHI means regular fields in Disk and Halo (DH), Anisotropic turbulent field in Disk (A), and Isotropic turbulent field in Halo (I)
+
+#################################################################################
 
 The 'ShneiderModel_M51_TwoLayerOnly_all.pdf' file shows an example with datapoints showing the observed degree of polarization between ~ 3 and 27 cm (Kierdorf et al., in prep.).
