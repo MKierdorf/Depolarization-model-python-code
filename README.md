@@ -43,6 +43,10 @@ D : Disk regular field
 
 H : Halo regular field
 
+A: Anisotropic turbulent fields
+
+I: Isotropic turbulent fields
+
 Example: DAHI means regular fields in Disk and Halo (DH), Anisotropic turbulent field in Disk (A), and Isotropic turbulent field in Halo (I)
 
 
