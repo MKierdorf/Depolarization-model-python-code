@@ -51,4 +51,4 @@ Example: DAHI means regular fields in Disk and Halo (DH), Anisotropic turbulent 
 
 #################################################################################
 
-The 'ShneiderModel_M51_TwoLayerOnly_all.pdf' file shows an example with datapoints showing the observed degree of polarization between ~ 3 and 27 cm (Kierdorf et al., in prep.).
+The 'Depoltool_Example_Data.pdf' file shows an example with datapoints showing the observed degree of polarization between ~ 3 and 27 cm (Kierdorf et al., in prep.).
